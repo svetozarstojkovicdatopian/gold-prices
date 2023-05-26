@@ -1,11 +1,17 @@
-## Chart 
-
 <LineChart 
-    title="Gold prices"  
+    title="Gold prices - Annual"  
     xAxis="Date"
     yAxis="Price" 
-    data="data/annual.csv"
+    data="https://raw.githubusercontent.com/svetozarstojkovicdatopian/gold-prices/main/data/annual.csv"
 />
+
+<LineChart 
+    title="Gold prices - Monthly"  
+    xAxis="Date"
+    yAxis="Price" 
+    data="https://raw.githubusercontent.com/svetozarstojkovicdatopian/gold-prices/main/data/monthly.csv"
+/>
+
 
 Monthly gold prices since 1950 in USD (London market). Data is sourced from the Bundesbank.
 
