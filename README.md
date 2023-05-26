@@ -12,6 +12,8 @@
     data="https://raw.githubusercontent.com/svetozarstojkovicdatopian/gold-prices/main/data/monthly.csv"
 />
 
+Based on this we can see that the prices of gold increased over time but not linearly, since alot of world currencies depend on it there must have been control of it and as the inflation grew, the price of gold grew as well.
+
 
 Monthly gold prices since 1950 in USD (London market). Data is sourced from the Bundesbank.
 
